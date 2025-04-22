@@ -1,6 +1,11 @@
 #include <stdio.h>
 #include <stdio.h>
 
+int main(){
+    printf("Desafio");
+    printf("Novo commit \n");
+}
+
 int main() {
     // Declaração das variáveis para a carta 1
     char estado1;
