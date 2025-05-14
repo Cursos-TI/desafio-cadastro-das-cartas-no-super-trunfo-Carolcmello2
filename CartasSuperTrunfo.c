@@ -2,7 +2,7 @@
 
 int main (){
     printf("Desafiocartas\n");
-    
+    printf("Novo commit\n");
 
 }
 struct Carta {
