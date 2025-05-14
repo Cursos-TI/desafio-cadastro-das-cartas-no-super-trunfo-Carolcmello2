@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+int main (){
+    printf("Desafiocartas\n");
+    
+
+}
 struct Carta {
     char estado[3];
     char codigo[5];
